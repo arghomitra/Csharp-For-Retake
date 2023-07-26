@@ -1,0 +1,15 @@
+E:\C# retake\02 Decimal part\bin\Debug\net6.0\02 Decimal part.exe
+E:\C# retake\02 Decimal part\bin\Debug\net6.0\02 Decimal part.deps.json
+E:\C# retake\02 Decimal part\bin\Debug\net6.0\02 Decimal part.runtimeconfig.json
+E:\C# retake\02 Decimal part\bin\Debug\net6.0\02 Decimal part.dll
+E:\C# retake\02 Decimal part\bin\Debug\net6.0\02 Decimal part.pdb
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.csproj.AssemblyReference.cache
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.AssemblyInfoInputs.cache
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.AssemblyInfo.cs
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.csproj.CoreCompileInputs.cache
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.dll
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\refint\02 Decimal part.dll
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.pdb
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\02 Decimal part.genruntimeconfig.cache
+E:\C# retake\02 Decimal part\obj\Debug\net6.0\ref\02 Decimal part.dll
