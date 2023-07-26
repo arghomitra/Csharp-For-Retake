@@ -1,0 +1,15 @@
+E:\C--codes\02 Circumference\bin\Debug\net6.0\02 Circumference.exe
+E:\C--codes\02 Circumference\bin\Debug\net6.0\02 Circumference.deps.json
+E:\C--codes\02 Circumference\bin\Debug\net6.0\02 Circumference.runtimeconfig.json
+E:\C--codes\02 Circumference\bin\Debug\net6.0\02 Circumference.dll
+E:\C--codes\02 Circumference\bin\Debug\net6.0\02 Circumference.pdb
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.csproj.AssemblyReference.cache
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.AssemblyInfoInputs.cache
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.AssemblyInfo.cs
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.csproj.CoreCompileInputs.cache
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.dll
+E:\C--codes\02 Circumference\obj\Debug\net6.0\refint\02 Circumference.dll
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.pdb
+E:\C--codes\02 Circumference\obj\Debug\net6.0\02 Circumference.genruntimeconfig.cache
+E:\C--codes\02 Circumference\obj\Debug\net6.0\ref\02 Circumference.dll
