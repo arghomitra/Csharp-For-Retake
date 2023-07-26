@@ -1,0 +1,15 @@
+E:\C--codes\02 Radius\bin\Debug\net6.0\02 Radius.exe
+E:\C--codes\02 Radius\bin\Debug\net6.0\02 Radius.deps.json
+E:\C--codes\02 Radius\bin\Debug\net6.0\02 Radius.runtimeconfig.json
+E:\C--codes\02 Radius\bin\Debug\net6.0\02 Radius.dll
+E:\C--codes\02 Radius\bin\Debug\net6.0\02 Radius.pdb
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.csproj.AssemblyReference.cache
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.AssemblyInfoInputs.cache
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.AssemblyInfo.cs
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.csproj.CoreCompileInputs.cache
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.dll
+E:\C--codes\02 Radius\obj\Debug\net6.0\refint\02 Radius.dll
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.pdb
+E:\C--codes\02 Radius\obj\Debug\net6.0\02 Radius.genruntimeconfig.cache
+E:\C--codes\02 Radius\obj\Debug\net6.0\ref\02 Radius.dll
