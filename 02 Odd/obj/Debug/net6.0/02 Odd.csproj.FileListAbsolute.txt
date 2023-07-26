@@ -1,0 +1,15 @@
+E:\C--codes\02 Odd\bin\Debug\net6.0\02 Odd.exe
+E:\C--codes\02 Odd\bin\Debug\net6.0\02 Odd.deps.json
+E:\C--codes\02 Odd\bin\Debug\net6.0\02 Odd.runtimeconfig.json
+E:\C--codes\02 Odd\bin\Debug\net6.0\02 Odd.dll
+E:\C--codes\02 Odd\bin\Debug\net6.0\02 Odd.pdb
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.csproj.AssemblyReference.cache
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.AssemblyInfoInputs.cache
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.AssemblyInfo.cs
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.csproj.CoreCompileInputs.cache
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.dll
+E:\C--codes\02 Odd\obj\Debug\net6.0\refint\02 Odd.dll
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.pdb
+E:\C--codes\02 Odd\obj\Debug\net6.0\02 Odd.genruntimeconfig.cache
+E:\C--codes\02 Odd\obj\Debug\net6.0\ref\02 Odd.dll
