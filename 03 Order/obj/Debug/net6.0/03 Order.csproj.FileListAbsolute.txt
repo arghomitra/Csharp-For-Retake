@@ -1,0 +1,15 @@
+E:\C--codes\03 Order\bin\Debug\net6.0\03 Order.exe
+E:\C--codes\03 Order\bin\Debug\net6.0\03 Order.deps.json
+E:\C--codes\03 Order\bin\Debug\net6.0\03 Order.runtimeconfig.json
+E:\C--codes\03 Order\bin\Debug\net6.0\03 Order.dll
+E:\C--codes\03 Order\bin\Debug\net6.0\03 Order.pdb
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.csproj.AssemblyReference.cache
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.AssemblyInfoInputs.cache
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.AssemblyInfo.cs
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.csproj.CoreCompileInputs.cache
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.dll
+E:\C--codes\03 Order\obj\Debug\net6.0\refint\03 Order.dll
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.pdb
+E:\C--codes\03 Order\obj\Debug\net6.0\03 Order.genruntimeconfig.cache
+E:\C--codes\03 Order\obj\Debug\net6.0\ref\03 Order.dll
