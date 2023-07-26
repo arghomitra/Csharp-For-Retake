@@ -1,0 +1,15 @@
+E:\C--codes\03 Months\bin\Debug\net6.0\03 Months.exe
+E:\C--codes\03 Months\bin\Debug\net6.0\03 Months.deps.json
+E:\C--codes\03 Months\bin\Debug\net6.0\03 Months.runtimeconfig.json
+E:\C--codes\03 Months\bin\Debug\net6.0\03 Months.dll
+E:\C--codes\03 Months\bin\Debug\net6.0\03 Months.pdb
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.csproj.AssemblyReference.cache
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.AssemblyInfoInputs.cache
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.AssemblyInfo.cs
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.csproj.CoreCompileInputs.cache
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.dll
+E:\C--codes\03 Months\obj\Debug\net6.0\refint\03 Months.dll
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.pdb
+E:\C--codes\03 Months\obj\Debug\net6.0\03 Months.genruntimeconfig.cache
+E:\C--codes\03 Months\obj\Debug\net6.0\ref\03 Months.dll
