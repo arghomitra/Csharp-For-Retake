@@ -1,0 +1,15 @@
+E:\C--codes\03 Even\bin\Debug\net6.0\03 Even.exe
+E:\C--codes\03 Even\bin\Debug\net6.0\03 Even.deps.json
+E:\C--codes\03 Even\bin\Debug\net6.0\03 Even.runtimeconfig.json
+E:\C--codes\03 Even\bin\Debug\net6.0\03 Even.dll
+E:\C--codes\03 Even\bin\Debug\net6.0\03 Even.pdb
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.csproj.AssemblyReference.cache
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.AssemblyInfoInputs.cache
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.AssemblyInfo.cs
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.csproj.CoreCompileInputs.cache
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.dll
+E:\C--codes\03 Even\obj\Debug\net6.0\refint\03 Even.dll
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.pdb
+E:\C--codes\03 Even\obj\Debug\net6.0\03 Even.genruntimeconfig.cache
+E:\C--codes\03 Even\obj\Debug\net6.0\ref\03 Even.dll
