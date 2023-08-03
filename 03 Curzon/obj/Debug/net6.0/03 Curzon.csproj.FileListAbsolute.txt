@@ -1,0 +1,15 @@
+E:\C--codes\03 Curzon\bin\Debug\net6.0\03 Curzon.exe
+E:\C--codes\03 Curzon\bin\Debug\net6.0\03 Curzon.deps.json
+E:\C--codes\03 Curzon\bin\Debug\net6.0\03 Curzon.runtimeconfig.json
+E:\C--codes\03 Curzon\bin\Debug\net6.0\03 Curzon.dll
+E:\C--codes\03 Curzon\bin\Debug\net6.0\03 Curzon.pdb
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.csproj.AssemblyReference.cache
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.AssemblyInfoInputs.cache
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.AssemblyInfo.cs
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.csproj.CoreCompileInputs.cache
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.dll
+E:\C--codes\03 Curzon\obj\Debug\net6.0\refint\03 Curzon.dll
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.pdb
+E:\C--codes\03 Curzon\obj\Debug\net6.0\03 Curzon.genruntimeconfig.cache
+E:\C--codes\03 Curzon\obj\Debug\net6.0\ref\03 Curzon.dll

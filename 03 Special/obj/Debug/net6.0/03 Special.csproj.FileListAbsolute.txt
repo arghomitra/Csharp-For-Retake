@@ -1,0 +1,15 @@
+E:\C--codes\03 Special\bin\Debug\net6.0\03 Special.exe
+E:\C--codes\03 Special\bin\Debug\net6.0\03 Special.deps.json
+E:\C--codes\03 Special\bin\Debug\net6.0\03 Special.runtimeconfig.json
+E:\C--codes\03 Special\bin\Debug\net6.0\03 Special.dll
+E:\C--codes\03 Special\bin\Debug\net6.0\03 Special.pdb
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.csproj.AssemblyReference.cache
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.AssemblyInfoInputs.cache
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.AssemblyInfo.cs
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.csproj.CoreCompileInputs.cache
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.dll
+E:\C--codes\03 Special\obj\Debug\net6.0\refint\03 Special.dll
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.pdb
+E:\C--codes\03 Special\obj\Debug\net6.0\03 Special.genruntimeconfig.cache
+E:\C--codes\03 Special\obj\Debug\net6.0\ref\03 Special.dll
