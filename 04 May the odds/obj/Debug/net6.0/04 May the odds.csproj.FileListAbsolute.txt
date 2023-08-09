@@ -1,0 +1,15 @@
+E:\C--codes\04 May the odds\bin\Debug\net6.0\04 May the odds.exe
+E:\C--codes\04 May the odds\bin\Debug\net6.0\04 May the odds.deps.json
+E:\C--codes\04 May the odds\bin\Debug\net6.0\04 May the odds.runtimeconfig.json
+E:\C--codes\04 May the odds\bin\Debug\net6.0\04 May the odds.dll
+E:\C--codes\04 May the odds\bin\Debug\net6.0\04 May the odds.pdb
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.csproj.AssemblyReference.cache
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.AssemblyInfoInputs.cache
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.AssemblyInfo.cs
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.csproj.CoreCompileInputs.cache
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.dll
+E:\C--codes\04 May the odds\obj\Debug\net6.0\refint\04 May the odds.dll
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.pdb
+E:\C--codes\04 May the odds\obj\Debug\net6.0\04 May the odds.genruntimeconfig.cache
+E:\C--codes\04 May the odds\obj\Debug\net6.0\ref\04 May the odds.dll

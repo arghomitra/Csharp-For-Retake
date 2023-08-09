@@ -1,0 +1,15 @@
+E:\C--codes\The art of nesting\bin\Debug\net6.0\The art of nesting.exe
+E:\C--codes\The art of nesting\bin\Debug\net6.0\The art of nesting.deps.json
+E:\C--codes\The art of nesting\bin\Debug\net6.0\The art of nesting.runtimeconfig.json
+E:\C--codes\The art of nesting\bin\Debug\net6.0\The art of nesting.dll
+E:\C--codes\The art of nesting\bin\Debug\net6.0\The art of nesting.pdb
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.csproj.AssemblyReference.cache
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.AssemblyInfoInputs.cache
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.AssemblyInfo.cs
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.csproj.CoreCompileInputs.cache
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.dll
+E:\C--codes\The art of nesting\obj\Debug\net6.0\refint\The art of nesting.dll
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.pdb
+E:\C--codes\The art of nesting\obj\Debug\net6.0\The art of nesting.genruntimeconfig.cache
+E:\C--codes\The art of nesting\obj\Debug\net6.0\ref\The art of nesting.dll

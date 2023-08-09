@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "The art of nesting/1.0.0": {
+        "runtime": {
+          "The art of nesting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The art of nesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

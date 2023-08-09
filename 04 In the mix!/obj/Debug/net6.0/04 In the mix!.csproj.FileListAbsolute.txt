@@ -1,0 +1,15 @@
+E:\C--codes\04 In the mix!\bin\Debug\net6.0\04 In the mix!.exe
+E:\C--codes\04 In the mix!\bin\Debug\net6.0\04 In the mix!.deps.json
+E:\C--codes\04 In the mix!\bin\Debug\net6.0\04 In the mix!.runtimeconfig.json
+E:\C--codes\04 In the mix!\bin\Debug\net6.0\04 In the mix!.dll
+E:\C--codes\04 In the mix!\bin\Debug\net6.0\04 In the mix!.pdb
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.csproj.AssemblyReference.cache
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.AssemblyInfoInputs.cache
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.AssemblyInfo.cs
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.csproj.CoreCompileInputs.cache
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.dll
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\refint\04 In the mix!.dll
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.pdb
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\04 In the mix!.genruntimeconfig.cache
+E:\C--codes\04 In the mix!\obj\Debug\net6.0\ref\04 In the mix!.dll
