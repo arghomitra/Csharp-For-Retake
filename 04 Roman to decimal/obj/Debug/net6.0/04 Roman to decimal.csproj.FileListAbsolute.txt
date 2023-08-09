@@ -1,0 +1,15 @@
+E:\C--codes\04 Roman to decimal\bin\Debug\net6.0\04 Roman to decimal.exe
+E:\C--codes\04 Roman to decimal\bin\Debug\net6.0\04 Roman to decimal.deps.json
+E:\C--codes\04 Roman to decimal\bin\Debug\net6.0\04 Roman to decimal.runtimeconfig.json
+E:\C--codes\04 Roman to decimal\bin\Debug\net6.0\04 Roman to decimal.dll
+E:\C--codes\04 Roman to decimal\bin\Debug\net6.0\04 Roman to decimal.pdb
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.csproj.AssemblyReference.cache
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.AssemblyInfoInputs.cache
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.AssemblyInfo.cs
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.csproj.CoreCompileInputs.cache
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.dll
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\refint\04 Roman to decimal.dll
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.pdb
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\04 Roman to decimal.genruntimeconfig.cache
+E:\C--codes\04 Roman to decimal\obj\Debug\net6.0\ref\04 Roman to decimal.dll
