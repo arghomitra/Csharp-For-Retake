@@ -1,0 +1,15 @@
+E:\C--codes\04 Floyd's triangle\bin\Debug\net6.0\04 Floyd's triangle.exe
+E:\C--codes\04 Floyd's triangle\bin\Debug\net6.0\04 Floyd's triangle.deps.json
+E:\C--codes\04 Floyd's triangle\bin\Debug\net6.0\04 Floyd's triangle.runtimeconfig.json
+E:\C--codes\04 Floyd's triangle\bin\Debug\net6.0\04 Floyd's triangle.dll
+E:\C--codes\04 Floyd's triangle\bin\Debug\net6.0\04 Floyd's triangle.pdb
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.csproj.AssemblyReference.cache
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.AssemblyInfoInputs.cache
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.AssemblyInfo.cs
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.csproj.CoreCompileInputs.cache
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.dll
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\refint\04 Floyd's triangle.dll
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.pdb
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\04 Floyd's triangle.genruntimeconfig.cache
+E:\C--codes\04 Floyd's triangle\obj\Debug\net6.0\ref\04 Floyd's triangle.dll
