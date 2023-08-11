@@ -1,0 +1,15 @@
+E:\C--codes\05 Single ladies\bin\Debug\net6.0\05 Single ladies.exe
+E:\C--codes\05 Single ladies\bin\Debug\net6.0\05 Single ladies.deps.json
+E:\C--codes\05 Single ladies\bin\Debug\net6.0\05 Single ladies.runtimeconfig.json
+E:\C--codes\05 Single ladies\bin\Debug\net6.0\05 Single ladies.dll
+E:\C--codes\05 Single ladies\bin\Debug\net6.0\05 Single ladies.pdb
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.csproj.AssemblyReference.cache
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.AssemblyInfoInputs.cache
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.AssemblyInfo.cs
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.csproj.CoreCompileInputs.cache
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.dll
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\refint\05 Single ladies.dll
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.pdb
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\05 Single ladies.genruntimeconfig.cache
+E:\C--codes\05 Single ladies\obj\Debug\net6.0\ref\05 Single ladies.dll

@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             string roman = Console.ReadLine();
-            for (int i = 0;i< roman.Length;i++)
+            for (int i = 0;i<= roman.Length;i++)
             {
                 switch (roman[i])
                 {

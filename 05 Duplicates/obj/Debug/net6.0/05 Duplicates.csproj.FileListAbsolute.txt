@@ -1,0 +1,15 @@
+E:\C--codes\05 Duplicates\bin\Debug\net6.0\05 Duplicates.exe
+E:\C--codes\05 Duplicates\bin\Debug\net6.0\05 Duplicates.deps.json
+E:\C--codes\05 Duplicates\bin\Debug\net6.0\05 Duplicates.runtimeconfig.json
+E:\C--codes\05 Duplicates\bin\Debug\net6.0\05 Duplicates.dll
+E:\C--codes\05 Duplicates\bin\Debug\net6.0\05 Duplicates.pdb
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.csproj.AssemblyReference.cache
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.AssemblyInfoInputs.cache
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.AssemblyInfo.cs
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.csproj.CoreCompileInputs.cache
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.dll
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\refint\05 Duplicates.dll
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.pdb
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\05 Duplicates.genruntimeconfig.cache
+E:\C--codes\05 Duplicates\obj\Debug\net6.0\ref\05 Duplicates.dll

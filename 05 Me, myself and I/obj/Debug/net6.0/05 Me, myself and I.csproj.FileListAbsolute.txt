@@ -1,0 +1,15 @@
+E:\C--codes\05 Me, myself and I\bin\Debug\net6.0\05 Me, myself and I.exe
+E:\C--codes\05 Me, myself and I\bin\Debug\net6.0\05 Me, myself and I.deps.json
+E:\C--codes\05 Me, myself and I\bin\Debug\net6.0\05 Me, myself and I.runtimeconfig.json
+E:\C--codes\05 Me, myself and I\bin\Debug\net6.0\05 Me, myself and I.dll
+E:\C--codes\05 Me, myself and I\bin\Debug\net6.0\05 Me, myself and I.pdb
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.csproj.AssemblyReference.cache
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.AssemblyInfoInputs.cache
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.AssemblyInfo.cs
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.csproj.CoreCompileInputs.cache
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.dll
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\refint\05 Me, myself and I.dll
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.pdb
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\05 Me, myself and I.genruntimeconfig.cache
+E:\C--codes\05 Me, myself and I\obj\Debug\net6.0\ref\05 Me, myself and I.dll

@@ -1,0 +1,15 @@
+E:\C--codes\05 Punctuation\bin\Debug\net6.0\05 Punctuation.exe
+E:\C--codes\05 Punctuation\bin\Debug\net6.0\05 Punctuation.deps.json
+E:\C--codes\05 Punctuation\bin\Debug\net6.0\05 Punctuation.runtimeconfig.json
+E:\C--codes\05 Punctuation\bin\Debug\net6.0\05 Punctuation.dll
+E:\C--codes\05 Punctuation\bin\Debug\net6.0\05 Punctuation.pdb
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.csproj.AssemblyReference.cache
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.AssemblyInfoInputs.cache
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.AssemblyInfo.cs
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.csproj.CoreCompileInputs.cache
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.dll
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\refint\05 Punctuation.dll
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.pdb
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\05 Punctuation.genruntimeconfig.cache
+E:\C--codes\05 Punctuation\obj\Debug\net6.0\ref\05 Punctuation.dll
